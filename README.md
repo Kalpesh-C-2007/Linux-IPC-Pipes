@@ -82,7 +82,6 @@ write(wfd,buff,n);
 }
 
 
-
 ## OUTPUT
 <img width="945" height="434" alt="image" src="https://github.com/user-attachments/assets/c6f05a36-078a-443a-a594-9575392ceb00" />
 
